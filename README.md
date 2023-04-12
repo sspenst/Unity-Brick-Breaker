@@ -1,4 +1,4 @@
-# Brick Breaker
+# Unity Brick Breaker
 
 Brick breaker game from the Unity data persistence tutorial
 
